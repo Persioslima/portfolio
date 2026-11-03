@@ -49,7 +49,7 @@ API REST desenvolvida com Java, Spring Boot e PostgreSQL para gerenciamento de u
 - Testes automatizados com JUnit 5 e Mockito.
 - Documentação técnica com requisitos e diagramas.
 
-**Repositório:** será adicionado após a publicação do projeto.
+**Repositório:** [Ver projeto no GitHub](https://github.com/Persioslima/comercioeletronico)
 
 ## Objetivo profissional
 
